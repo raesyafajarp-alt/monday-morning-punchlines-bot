@@ -8,8 +8,8 @@ The joke is a single line, well within the 1-200 character gate.
 import os
 
 ENTRY = (
-    "Monday morning is the only time my bed files for full custody of me "
-    "\u2014 and the judge always rules in its favour, five days a week."
+    "My bed filed for full custody of me on Monday morning. "
+    "The judge granted it \u2014 I only get weekends."
 )
 
 
